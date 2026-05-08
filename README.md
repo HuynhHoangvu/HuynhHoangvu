@@ -46,7 +46,6 @@ Here are some of the production applications I have built and maintained end-to-
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuynhHoangvu&show_icons=true&theme=transparent&hide_border=true&v=1" alt="Vũ's GitHub Stats" height="195" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HuynhHoangvu&theme=transparent&hide_border=true&v=1" alt="Vũ's GitHub Streak" height="195" />
 </p>
 
