@@ -11,11 +11,10 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Final-year **Information Technology** student specializing in Computer Networking.
-* 💻 Focused on **Full-stack Development** (React/TypeScript, NestJS/Express, PostgreSQL) with a strong emphasis on scalable architectures.
-* 🚀 Experienced in taking products from zero to production, handling everything from database design to CI/CD pipelines and deployment via Docker & Railway.
-* 🌱 Currently sharpening my programming skills and studying **German (B1.2)** for future career goals.
-* ⚡ **Fun fact:** When I'm away from the keyboard, you'll likely find me hitting new personal records at the gym (75kg chest press! 💪), swimming, playing badminton, or maintaining my aquascapes and breeding ornamental shrimp. 🦐🐠
+🎓 Final-year **Information Technology** student specializing in Computer Networking.
+💻 Focused on **Full-stack Development** (React/TypeScript, NestJS/Express, PostgreSQL) with a strong emphasis on scalable architectures.
+🚀 Experienced in taking products from zero to production, handling everything from database design to CI/CD pipelines and deployment via Docker & Railway.🌱 Currently sharpening my programming skills and studying **German (B1.2)** for future career goals.
+⚡ **Fun fact:** When I'm away from the keyboard, you'll likely find me hitting new personal records at the gym, swimming, playing badminton.
 
 ---
 
@@ -23,9 +22,9 @@
 
 Here are some of the production applications I have built and maintained end-to-end:
 
-* 🏢 **[Fly Visa System](https://flyvisa.up.railway.app/hr):** An internal operations and CRM platform used daily by all company staff. Features HR/payroll, attendance tracking, and customer pipeline management for 160+ clients.
-* 🌐 **[Fly Immigration](https://flyimmigration.vn/):** A corporate international recruitment website handling job postings and service navigation, serving hundreds of live visitors.
-* 🎓 **[Fly PTE](https://flypte.up.railway.app/dashboard):** An EdTech platform for PTE exam preparation featuring a hybrid AI auto-scoring pipeline (FastAPI/Whisper) with resilience patterns. Currently testing the Android app version.
+🏢 **[Fly Visa System](https://flyvisa.up.railway.app/hr):** An internal operations and CRM platform used daily by all company staff. Features HR/payroll, attendance tracking, and customer pipeline management for 160+ clients.
+🌐 **[Fly Immigration](https://flyimmigration.vn/):** A corporate international recruitment website handling job postings and service navigation, serving hundreds of live visitors.
+🎓 **[Fly PTE](https://flypte.up.railway.app/dashboard):** An EdTech platform for PTE exam preparation featuring a hybrid AI auto-scoring pipeline (FastAPI/Whisper) with resilience patterns. Currently testing the Android app version.
 
 ---
 
